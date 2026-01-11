@@ -6,4 +6,5 @@
     --duration 10s \
     --rate 1 \
     --latency \
+    --script ./scripts/patterns.lua \
     http://127.0.0.1:8000
